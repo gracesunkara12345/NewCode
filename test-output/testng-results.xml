@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T11:07:02 IST" name="Default suite" finished-at="2023-10-25T11:07:04 IST" duration-ms="2309">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T11:07:02 IST" name="Default test" finished-at="2023-10-25T11:07:04 IST" duration-ms="2309">
+      <class name="restAssuredPac.SamplePOST">
+        <test-method is-config="true" signature="prePost()[pri:0, instance:restAssuredPac.SamplePOST@4c1909a3]" started-at="2023-10-25T11:07:02 IST" name="prePost" finished-at="2023-10-25T11:07:02 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prePost -->
+        <test-method signature="testPost()[pri:0, instance:restAssuredPac.SamplePOST@4c1909a3]" started-at="2023-10-25T11:07:02 IST" name="testPost" finished-at="2023-10-25T11:07:04 IST" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- restAssuredPac.SamplePOST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
